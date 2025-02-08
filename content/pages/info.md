@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: C++
+        label: Designing Beautiful Front-Ends
       - type: Label
         label: Swift
   - type: DividerSection
