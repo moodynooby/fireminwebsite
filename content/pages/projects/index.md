@@ -130,4 +130,5 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Smaller Projects
 ---
