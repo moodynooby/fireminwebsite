@@ -112,7 +112,7 @@ bottomSections:
     recentCount: 6
     showDate: false
     showDescription: true
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: true
     styles:
       self:
