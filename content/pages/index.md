@@ -82,47 +82,10 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: ''
-    showFeaturedImage: false
-    actions: []
-    posts: []
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    title: Other Projects
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting project? Build it yourself..\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
