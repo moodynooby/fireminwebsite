@@ -89,8 +89,7 @@ sections:
     subtitle: ''
     showFeaturedImage: false
     actions: []
-    posts:
-      - content/pages/blog/post-four.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
