@@ -86,7 +86,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: ''
     showFeaturedImage: false
     actions: []
     posts:
