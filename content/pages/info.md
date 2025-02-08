@@ -222,7 +222,7 @@ sections:
       - type: Label
         label: Designing Beautiful Front-Ends
       - type: Label
-        label: Swift
+        label: Swift - Coding
   - type: DividerSection
     styles:
       self:
