@@ -107,7 +107,7 @@ bottomSections:
         iconPosition: right
         elementId: ''
     colors: colors-d
-    variant: variant-c
+    variant: variant-d
     elementId: ''
     recentCount: 6
     showDate: false
