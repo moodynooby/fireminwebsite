@@ -125,7 +125,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/moodynooby'
         styles:
           self:
             textAlign: left
