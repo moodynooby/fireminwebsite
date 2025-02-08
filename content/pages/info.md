@@ -13,15 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
+    text: >+
       ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
       also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ex-super big name.  Are You Even Reading This?
+
     media:
       type: ImageBlock
       url: /images/about.jpg
       altText: Hero image
+      caption: Not Me Just A Random Hot Woman
     styles:
       self:
         height: auto
