@@ -16,7 +16,7 @@ sections:
     title: >-
       I’m Manas , A developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
-    subtitle: 'In Fairness , I am None Of Them Just Learning In Practices'
+    subtitle: 'In Fairness , I am None Of Them I Just Believe In Learning In Practice'
     styles:
       self:
         height: auto
