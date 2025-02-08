@@ -22,6 +22,7 @@ sections:
       type: ImageBlock
       url: /images/about.jpg
       altText: Hero image
+      caption: Not Me Just A Random Hot Woman
     styles:
       self:
         height: auto
