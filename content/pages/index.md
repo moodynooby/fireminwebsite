@@ -88,16 +88,7 @@ sections:
     variant: variant-d
     subtitle: Featured Posts
     showFeaturedImage: false
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /ALl Projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
