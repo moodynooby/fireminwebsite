@@ -190,7 +190,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'But You can find me here:'
+    subtitle: 'But you can find me here:'
     title: DON'T YOU FUCKING LOOK FOR ME
   - type: DividerSection
     styles:
